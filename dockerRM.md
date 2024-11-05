@@ -28,3 +28,24 @@ Every team member should have the exacly same enviroment when working on the sam
 -   Clashing Tools / Versions Between Different Projects
 When switching between proct A should not clash with tools used in project B
 
+### A Container ?
+- Standardized unit for shipping goods
+- Independent from other containers
+- Can be moved with trucks, ships, cranes,...
+- Self-containing
+
+### Solution: Virtual Machines / Virtual Operating Systems
+-   Wastes a lot of space on your hard divre and tends to be slow
+-   Pro:
+-   -   Separated environment
+-   -   Environment-specifc configurations are possible
+-   -   Enviroment configurations can be shared and reproduced reliably 
+-   
+-   Con
+-   -   Redundant duplication, waste of space
+-   -   Perfomance can be slow, boot times can be long
+-   -   Reproducing on another computer server is possible but may still be tricky
+-  
+
+### Docker Helps You build & Manage Containers 
+
