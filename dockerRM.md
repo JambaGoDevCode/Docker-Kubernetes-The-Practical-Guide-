@@ -49,3 +49,14 @@ When switching between proct A should not clash with tools used in project B
 
 ### Docker Helps You build & Manage Containers 
 
+-   Module introduction 
+-   Images vs Conytainers
+    Docker 
+    Images -> Containers
+    Templates / Blueprints for containers -> The running "unit of software"
+    Container require image runnig 
+
+-   One image, Multiple containers 
+    Container -> Running NodeJS App] =
+    Container -> Running NodeJS App] = Image NodeJS App NodeJS Environment
+    
